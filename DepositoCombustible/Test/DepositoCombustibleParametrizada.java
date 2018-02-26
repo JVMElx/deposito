@@ -43,6 +43,6 @@ public class DepositoCombustibleParametrizada {
 	sc.consumir(ctdConsumo);
 	assertEquals(resultado,sc.getDepositoNivel(),0);
 	}
-
+	
 
 }
